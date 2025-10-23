@@ -529,9 +529,9 @@ MILITARY("Military")
 ## Support & Contribution
 
 For questions, issues, or contributions:
-- GitHub: [Repository Link]
-- Issues: Report bugs and suggest features
-- Pull Requests: Contribute code improvements
-- Documentation: Help improve guides
+- **GitHub**: [Sh1tmunch3r/builderMenu](https://github.com/Sh1tmunch3r/builderMenu)
+- **Issues**: Report bugs and suggest features through GitHub Issues
+- **Pull Requests**: Contribute code improvements
+- **Documentation**: Help improve guides and tutorials
 
 **Happy Building!** 🏗️

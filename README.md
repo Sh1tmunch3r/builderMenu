@@ -271,7 +271,10 @@ MIT License - See LICENSE.txt for details
 
 ## Support
 
-For issues, suggestions, or contributions, please visit the GitHub repository.
+For issues, suggestions, or contributions:
+- **GitHub Repository**: [Sh1tmunch3r/builderMenu](https://github.com/Sh1tmunch3r/builderMenu)
+- **Issues**: Report bugs and request features through GitHub Issues
+- **Pull Requests**: Contribute improvements and fixes
 
 ---
 
